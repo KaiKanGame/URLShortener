@@ -1,2 +1,2 @@
 # URLShortener
-co owned by hydra and kaiiskool
+co owned by bvoo(?maybe) and kaiiskool
